@@ -31,7 +31,7 @@ pg_monitor/
 
 ```bash
 # 1. 클론 또는 다운로드
-git clone https://github.com/your_id/pg-monitor.git
+git clone https://github.com/DisyHC/pg-monitor.git
 cd pg-monitor
 
 # 2. 환경설정 파일 생성
